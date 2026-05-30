@@ -1,0 +1,6 @@
+{
+  "name": "KML Finance",
+  "description": "DSA Loan, Forex, Insurance and Tour & Travels website landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
